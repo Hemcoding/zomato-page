@@ -1,0 +1,11 @@
+#answer {
+    background-color: #f0f3f7;
+    display: none;
+    padding: 15px;
+  }
+  
+  #displayAnswer {
+    background-color: "#f0f3f7";
+    display: "block";
+    padding: "15px";
+  }
